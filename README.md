@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumit</h1>
-<h3 align="center">Full Stack Developer | AI Enthusiast | CS Undergrad @ GL Bajaj group of instiute</h3>
+<h3 align="center">Full Stack Developer | AI Enthusiast | CS Undergrad @ GL Bajaj group of instiutes</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;React+%7C+Node+%7C+TensorFlow.js;Hackathon+Runner-Up+%40+IET+Lucknow&font=Fira+Code&center=true&width=600&height=50&color=00F7FF"/>
