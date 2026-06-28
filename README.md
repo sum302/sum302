@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumit</h1>
-<h3 align="center">Full Stack Developer | AI Enthusiast | CS Undergrad @ GL Bajaj</h3>
+<h3 align="center">Full Stack Developer | AI Enthusiast | CS Undergrad @ GL Bajaj group of instiute</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;React+%7C+Node+%7C+TensorFlow.js;Hackathon+Runner-Up+%40+IET+Lucknow&font=Fira+Code&center=true&width=600&height=50&color=00F7FF"/>
@@ -14,7 +14,7 @@
 - 🌱 Currently deepening skills in **Machine Learning** and **Full Stack Development**
 - 🏆 **Runner-Up** at Hackathon organized at **IET Lucknow**
 - 📫 Reach me at: **sumit05259@gmail.com**
-- 📷 Instagram: [@YOUR_HANDLE](https://instagram.com/YOUR_HANDLE)
+
 
 <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif"/>
 
